@@ -1,0 +1,73 @@
+{
+    "name": "Deskmetrics",
+    "description": "Deskmetrics Analytics allows software companies and developers to understand how their application is being used.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1004-deskmetrics.jpg",
+    "tags": [
+        "analysis",
+        "api provider",
+        "applications",
+        "have api",
+        "software",
+        "twitter",
+        "website analytics"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/deskmetrics\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Deskmetrics",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1004-deskmetrics.jpg",
+            "humanURL": "https:\/\/deskmetrics.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/deskmetrics-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/deskmetrics-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.deskmetrics.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.deskmetrics.com\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/deskmetrics"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/deskmetrics"
+        },
+        {
+            "type": "Email",
+            "url": "support@deskmetrics.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/deskmetrics"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/deskmetrics"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/deskmetrics.com"
+        }
+    ]
+}
